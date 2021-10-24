@@ -5,12 +5,12 @@
       "first": "Emily",
       "last": "Saber"
       "dob": "4/13"
-      "address": {
-        "state": "Colorado"
-        "street": "Antelope Lane"
-        "city": "Boulder"
-        "zip": 09273
-    },
+          "address": {
+            "state": "Colorado"
+            "street": "Antelope Lane"
+            "city": "Boulder"
+            "zip": 09273
+        }
       "organDonor": true
       "liscenceNum": 89203816
     },
@@ -18,16 +18,16 @@
       "id": 2,
       "first": "Saint",
       "last": "Stephen",
-      "address": {
-        "state": "California",
-        "street": "Rose Road",
-        "city": "San Franciso",
-        "zip": 07263,
-      },
+          "address": {
+            "state": "California",
+            "street": "Rose Road",
+            "city": "San Franciso",
+            "zip": 07263,
+          }
       "organDonor": true
       "liscenceNum": 89203818
-       }],
-
+       }
+],
   "profile": {
     "name": "typicode"
   }
