@@ -3,16 +3,16 @@
     {
       "id": 1,
       "first": "Emily",
-      "last": "Saber"
-      "dob": "4/13"
+      "last": "Saber",
+      "dob": "4/13",
           "address": {
-            "state": "Colorado"
-            "street": "Antelope Lane"
-            "city": "Boulder"
-            "zip": 09273
+            "state": "Colorado",
+            "street": "Antelope Lane",
+            "city": "Boulder",
+            "zip": 09273,
         }
-      "organDonor": true
-      "liscenceNum": 89203816
+      "organDonor": true,
+      "liscenceNum": 89203816,
     },
        {
       "id": 2,
@@ -24,8 +24,8 @@
             "city": "San Franciso",
             "zip": 07263,
           }
-      "organDonor": true
-      "liscenceNum": 89203818
+      "organDonor": true,
+      "liscenceNum": 89203818,
        }
 ],
   "profile": {
