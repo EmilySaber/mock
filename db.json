@@ -1,13 +1,6 @@
 {
   "userprofiles": [
-    {
-      "id": 1,
-      "first": "Emily",
-      "last": "Saber",
-      "dob": "4/13",
-      "organDonor": true,
-      "liscenceNum": 89203816,
-    }
+    {"id": 1, "first": "Emily", "last": "Saber", "dob": "4/13", "organDonor": true, "liscenceNum": 89203816}
 ],
   "profile": {
     "name": "typicode"
