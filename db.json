@@ -14,7 +14,7 @@
     {"id": 12, "first": "Emily", "last": "Saber", "dob": "4/13","state": "Washington", "organDonor": true, "liscenceNum": 89203827},
     {"id": 13, "first": "Emily", "last": "Saber", "dob": "4/13", "state": "Maryland", "organDonor": true, "liscenceNum": 89203828},
     {"id": 14, "first": "Emily", "last": "Saber", "dob": "4/13", "state": "Oregon", "organDonor": true, "liscenceNum": 89203829},
-    {"id": 15, "first": "Emily", "last": "Saber", "dob": "4/13", "state": "Ohio", "organDonor": false, "liscenceNum": 89203830},   
+    {"id": 15, "first": "Emily", "last": "Saber", "dob": "4/13", "state": "Ohio", "organDonor": false, "liscenceNum": 89203830}
 ],
   "profile": {
     "name": "typicode"
