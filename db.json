@@ -4,11 +4,11 @@
       "id": 1,
       "first": "Emily",
       "last": "Saber"
-      "dob":
+      "dob": "4/13"
       "address": [
         "state": "Colorado"
         "street": "Antelope Lane"
-        "city":
+        "city": "Boulder"
         "zip":
       ],
       "organDonor": true
@@ -22,10 +22,9 @@
         "state": "California",
         "street": "Rose Road",
         "city": "San Franciso",
-        "zip": 07263
+        "zip": 07263,
       ],
-      "gender":
-      "organDonor": false
+      "organDonor": true
       "liscenceNum": 89203818
        }],
 
